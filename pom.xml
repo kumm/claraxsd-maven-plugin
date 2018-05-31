@@ -30,6 +30,11 @@
         <version.vaadin>8.1.1</version.vaadin>
     </properties>
 
+    <scm>
+        <connection>scm:git:https://git@github.com:kumm/claraxsd-maven-plugin.git</connection>
+        <developerConnection>scm:git:git@github.com:kumm/claraxsd-maven-plugin.git</developerConnection>
+  </scm>
+
     <dependencyManagement>
         <dependencies>
             <dependency>
